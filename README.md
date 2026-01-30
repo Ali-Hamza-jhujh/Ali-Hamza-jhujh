@@ -36,16 +36,16 @@
 <!-- GitHub Stats -->
 <!-- ======================= -->
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <a href="https://github.com/Ali-Hamza-Jhujh" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=AliHamzaJhujh&show_icons=false&theme=radical&count_private=true" alt="Ali Hamza GitHub Stats" />
-  </a>
+  <!-- GitHub Stats without icons -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AliHamzaJhujh&show_icons=false&theme=radical&count_private=true&hide_title=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ali-Hamza-Jhujh" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamzaJhujh&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
+  <!-- Top languages without icons -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamzaJhujh&layout=compact&theme=radical&hide_title=true&hide=html,css,scss" alt="Top Languages"/>
 </p>
 
 ---
