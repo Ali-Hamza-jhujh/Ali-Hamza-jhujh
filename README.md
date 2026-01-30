@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliHamzaJhujh&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ali-Hamza-Jhujh&color=brightgreen" alt="Profile views"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 <!-- Skills -->
 <!-- ======================= -->
 
-<h3 align="center">💻 My Skills</h3>
+### 💻 My Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -33,19 +33,20 @@
 ---
 
 <!-- ======================= -->
-<!-- GitHub Stats -->
+<!-- GitHub Stats Alternative -->
 <!-- ======================= -->
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats without icons -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AliHamzaJhujh&show_icons=false&theme=radical&count_private=true&hide_title=true" alt="GitHub Stats"/>
+  <!-- Alternative GitHub Stats (working now) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ali-Hamza-Jhujh&show_icons=true&theme=radical&count_private=true" alt="Ali Hamza GitHub Stats"/>
 </p>
 
+### 🏆 Top Languages
+
 <p align="center">
-  <!-- Top languages without icons -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamzaJhujh&layout=compact&theme=radical&hide_title=true&hide=html,css,scss" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ali-Hamza-Jhujh&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -54,7 +55,7 @@
 <!-- Freelance & Social Icons -->
 <!-- ======================= -->
 
-<h3 align="center">💼 Hire Me / Connect With Me</h3>
+### 💼 Hire Me / Connect With Me
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01c7f8e8fc64e2a70e?mp_source=share" target="_blank">
