@@ -25,19 +25,19 @@
 
 <p align="center">
   React &nbsp;
-  <img src="https://img.shields.io/badge/React-90%25-brightgreen" alt="React skill"/>
+  <img src="https://img.shields.io/badge/React-90%25-brightgreen?style=flat-square" alt="React skill"/>
 </p>
 <p align="center">
   MERN Stack &nbsp;
-  <img src="https://img.shields.io/badge/MERN-85%25-blue" alt="MERN skill"/>
+  <img src="https://img.shields.io/badge/MERN-85%25-blue?style=flat-square" alt="MERN skill"/>
 </p>
 <p align="center">
   Python &nbsp;
-  <img src="https://img.shields.io/badge/Python-80%25-yellow" alt="Python skill"/>
+  <img src="https://img.shields.io/badge/Python-80%25-yellow?style=flat-square" alt="Python skill"/>
 </p>
 <p align="center">
   DevOps &nbsp;
-  <img src="https://img.shields.io/badge/DevOps-75%25-red" alt="DevOps skill"/>
+  <img src="https://img.shields.io/badge/DevOps-75%25-red?style=flat-square" alt="DevOps skill"/>
 </p>
 
 ---
@@ -47,33 +47,40 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliHamzaJhujh&show_icons=true&theme=radical&count_private=true" alt="Ali Hamza GitHub Stats" />
+  <a href="https://github.com/AliHamzaJhujh" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=AliHamzaJhujh&show_icons=true&theme=radical&count_private=true" alt="Ali Hamza GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamzaJhujh&layout=compact&theme=radical" alt="Top Languages"/>
+  <a href="https://github.com/AliHamzaJhujh" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamzaJhujh&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
 </p>
 
 ---
 
 <!-- ======================= -->
-<!-- Freelance & Social Links -->
+<!-- Freelance & Social Icons -->
 <!-- ======================= -->
 
 <h3 align="center">💼 Hire Me / Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01c7f8e8fc64e2a70e?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-1DBF73?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" width="50px" alt="Upwork"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.freelancer.com/u/HAMZAjhujh786?frm=HAMZAjhujh786&sb=t" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-Hire%20Me-0064D2?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/freelancer.svg" width="50px" alt="Freelancer"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.fiverr.com/s/1q6z4X9" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fiverr.svg" width="50px" alt="Fiverr"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ali-hamza-maqsood-jhujh-6b6792336" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="50px" alt="LinkedIn"/>
   </a>
 </p>
 
