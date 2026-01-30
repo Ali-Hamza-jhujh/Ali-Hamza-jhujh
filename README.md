@@ -37,13 +37,13 @@
 <!-- ======================= -->
 
 <p align="center">
-  <a href="https://github.com/AliHamzaJhujh" target="_blank">
+  <a href="https://github.com/Ali-Hamza-Jhujh" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=AliHamzaJhujh&show_icons=true&theme=radical&count_private=true" alt="Ali Hamza GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AliHamzaJhujh" target="_blank">
+  <a href="https://github.com/Ali-Hamza-Jhujh" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamzaJhujh&layout=compact&theme=radical" alt="Top Languages"/>
   </a>
 </p>
