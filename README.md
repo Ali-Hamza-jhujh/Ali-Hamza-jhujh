@@ -1,7 +1,4 @@
-<!-- ======================= -->
 <!-- Animated Intro -->
-<!-- ======================= -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=FF5733&width=700&lines=Hi+I%27m+Ali+Hamza+Jhujh;Full+Stack+Developer;React+|+MERN+Stack+|+Python+|+DevOps" alt="Typing SVG"/>
 </p>
@@ -17,35 +14,29 @@
 
 ---
 
-<!-- ======================= -->
 <!-- Skills -->
-<!-- ======================= -->
-
 <h3 align="center">💻 My Skills</h3>
 
 <p align="center">
   React &nbsp;
-  <img src="https://progress-bar.dev/90/?title=React&width=200&suffix=%25" alt="React skill"/>
+  <img src="https://img.shields.io/badge/React-90%25-brightgreen" alt="React skill"/>
 </p>
 <p align="center">
   MERN Stack &nbsp;
-  <img src="https://progress-bar.dev/85/?title=MERN&width=200&suffix=%25" alt="MERN skill"/>
+  <img src="https://img.shields.io/badge/MERN-85%25-blue" alt="MERN skill"/>
 </p>
 <p align="center">
   Python &nbsp;
-  <img src="https://progress-bar.dev/80/?title=Python&width=200&suffix=%25" alt="Python skill"/>
+  <img src="https://img.shields.io/badge/Python-80%25-yellow" alt="Python skill"/>
 </p>
 <p align="center">
   DevOps &nbsp;
-  <img src="https://progress-bar.dev/75/?title=DevOps&width=200&suffix=%25" alt="DevOps skill"/>
+  <img src="https://img.shields.io/badge/DevOps-75%25-red" alt="DevOps skill"/>
 </p>
 
 ---
 
-<!-- ======================= -->
 <!-- GitHub Stats -->
-<!-- ======================= -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliHamzaJhujh&show_icons=true&theme=radical&count_private=true" alt="Ali Hamza GitHub Stats" />
 </p>
@@ -56,21 +47,18 @@
 
 ---
 
-<!-- ======================= -->
 <!-- Social Links -->
-<!-- ======================= -->
-
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-AliHamza-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ali-hamza-jhujh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AliHamza-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@AliHamza-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@AliHamza-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://github.com/AliHamzaJhujh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AliHamza-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-AliHamza-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=aboutdotme" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
