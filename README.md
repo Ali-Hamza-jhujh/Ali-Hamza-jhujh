@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/Ali-Hamza-Jhujh" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=AliHamzaJhujh&show_icons=true&theme=radical&count_private=true" alt="Ali Hamza GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AliHamzaJhujh&show_icons=false&theme=radical&count_private=true" alt="Ali Hamza GitHub Stats" />
   </a>
 </p>
 
