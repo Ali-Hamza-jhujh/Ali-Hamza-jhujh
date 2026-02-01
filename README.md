@@ -61,17 +61,18 @@
   
   ## 💼 Freelance Platforms
   
- <p align="center">
+<p align="center">
   <a href="https://www.fiverr.com/s/2KNdqwX" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="Fiverr" />
+    <img src="https://toppng.com/uploads/preview/fiverr-logo-png-transparent-179763.png" width="80" alt="Fiverr Logo"/> <!-- real Fiverr logo PNG --> :contentReference[oaicite:0]{index=0}
   </a>
   <a href="https://www.upwork.com/freelancers/~01c7f8e8fc64e2a70e?mp_source=share" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111645.png" width="60" height="60" alt="Upwork" />
+    <img src="https://logo.svgcdn.com/logos/upwork.png" width="80" alt="Upwork Logo"/> <!-- official Upwork logo PNG/SVG --> :contentReference[oaicite:1]{index=1}
   </a>
   <a href="https://www.freelancer.com/u/HAMZAjhujh786?frm=HAMZAjhujh786&sb=t" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="60" height="60" alt="Freelancer" />
+    <img src="https://seeklogo.com/images/F/freelancer-com-logo-320518D5CA-seeklogo.com.png" width="80" alt="Freelancer.com Logo"/> <!-- Freelancer.com logo PNG --> :contentReference[oaicite:2]{index=2}
   </a>
 </p>
+
 
   ---
   
