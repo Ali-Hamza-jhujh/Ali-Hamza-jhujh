@@ -109,7 +109,7 @@
   <a href="https://github.com/Ali-Hamza-jhujh" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/username/" target="_blank">
+  <a href="https://leetcode.com/Ali-hamza786/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" />
   </a>
 </p>
