@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=FF6C37,0e75b6&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Ali+Hamza+Jhujh;💻+Full+Stack+Web+Developer;⚡+React+%7C+MERN+%7C+Django+%7C+ML"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=FF6C37,0e75b6&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi,+I%27m+Ali+Hamza+Jhujh;%F0%9F%92%BB+Full+Stack+Web+Developer;%E2%9A%A1+React+%7C+MERN+%7C+Django+%7C+ML"/>
 </h1>
   
   <p align="center">
@@ -61,18 +61,18 @@
   
   ## 💼 Freelance Platforms
   
-  <p align="center">
-    <a href="https://www.fiverr.com/s/2KNdqwX">
-      <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-    </a>
-    <a href="https://www.upwork.com/freelancers/~01c7f8e8fc64e2a70e?mp_source=share">
-      <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-    </a>
-    <a href="https://www.freelancer.com/u/HAMZAjhujh786?frm=HAMZAjhujh786&sb=t">
-      <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
-    </a>
-  </p>
-  
+ <p align="center">
+  <a href="https://www.fiverr.com/s/2KNdqwX" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="Fiverr" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01c7f8e8fc64e2a70e?mp_source=share" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111645.png" width="60" height="60" alt="Upwork" />
+  </a>
+  <a href="https://www.freelancer.com/u/HAMZAjhujh786?frm=HAMZAjhujh786&sb=t" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="60" height="60" alt="Freelancer" />
+  </a>
+</p>
+
   ---
   
   ## 📊 GitHub Stats
