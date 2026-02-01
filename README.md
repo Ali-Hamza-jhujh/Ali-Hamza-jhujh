@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ali Hamza Jhujh</h1>
-<h3 align="center">
-  Full Stack Web Developer | MERN | React | Django | Machine Learning
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ali+Hamza+Jhujh;Full+Stack+Web+Developer+%7C+React+%7C+MERN+%7C+Django+%7C+ML"/>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ali-Hamza-jhujh&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -9,10 +8,10 @@
 
 ---
 
-## ✨ About Me
+## 🚀 About Me
 
 I’m a **Full Stack Web & Python Developer** passionate about building  
-**scalable web applications, intelligent AI systems, and automation tools**.  
+**scalable web apps, intelligent AI systems, and automation tools**.  
 
 💡 I specialize in:  
 - MERN Stack Applications  
@@ -26,7 +25,11 @@ I’m a **Full Stack Web & Python Developer** passionate about building
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6C37&center=true&vCenter=true&width=650&lines=JavaScript+%7C+Python+%7C+React+%7C+MERN+Stack;Django+%7C+Node.js+%7C+Express+%7C+MongoDB;Docker+%7C+Git+%7C+Linux+%7C+Postman" />
+</p>
 
 ### 🔹 Programming Languages
 <p align="left">
@@ -88,18 +91,9 @@ I’m a **Full Stack Web & Python Developer** passionate about building
 
 ---
 
-## 📈 GitHub Activity
-
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hamza-jhujh&theme=tokyo-night" />
-</p>
-
----
-
-## 💻 Animated Typing Intro
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+MERN+%7C+Django;Python+%7C+Machine+Learning;Docker+%7C+DevOps"/>
 </p>
 
 ---
