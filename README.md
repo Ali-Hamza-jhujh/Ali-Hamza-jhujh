@@ -1,80 +1,110 @@
-<!-- ======================= -->
-<!-- Animated Intro -->
-<!-- ======================= -->
+# 👋 Hi, I'm Ali Hamza Jhujh  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ali-Hamza-jhujh&label=Profile%20views&color=0e75b6&style=flat)
+
+## 🚀 About Me
+
+I’m a **Full Stack Web Developer** and **Python Developer** with hands-on experience in building modern, scalable web applications.  
+My expertise lies in **React**, **MERN Stack**, **Django**, and **Machine Learning**, along with solid DevOps fundamentals.
+
+I enjoy turning ideas into real-world products and continuously improving my skills through projects and open-source learning.
+
+🔹 Currently working on:
+- Full Stack Web Applications (MERN & Django)
+- React-based Frontend Projects
+- Backend APIs & Databases
+- Machine Learning Models
+- Dockerized Applications
+
+---
+
+## 🧠 Core Skills
+
+### 🌐 Full Stack Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge)
+
+---
+
+### 🐍 Backend & Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+### 🤖 Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### 🛠 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🧰 Tech Stack Overview
+
+### 🔹 Programming Languages
+- JavaScript
+- Python
+
+### 🔹 Frameworks & Libraries
+- React.js
+- Node.js
+- Express.js
+- Django
+
+### 🔹 Databases
+- MongoDB
+- MySQL
+
+### 🔹 Tools & Platforms
+- Docker
+- Git & GitHub
+- Postman
+- Linux
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=FF5733&width=700&lines=Hi+I%27m+Ali+Hamza+Jhujh;Full+Stack+Developer;React+|+MERN+Stack+|+Python+|+DevOps" alt="Typing SVG"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Hamza-jhujh&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  🔹 Passionate About Building Modern, Scalable Web Applications 🚀 <br/>
-  🔹 React | MERN Stack | Python | DevOps
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Hamza-jhujh&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-Hamza-Jhujh&color=brightgreen" alt="Profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hamza-jhujh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- ======================= -->
-<!-- Skills -->
-<!-- ======================= -->
-
-### 💻 My Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/MERN-85%25-0DB7ED?style=for-the-badge" alt="MERN"/>
-  <img src="https://img.shields.io/badge/Python-80%25-FFD43B?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/DevOps-75%25-FF5722?style=for-the-badge" alt="DevOps"/>
-</p>
+## 📈 GitHub Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hamza-jhujh&theme=tokyo-night)
 
 ---
 
-<!-- ======================= -->
-<!-- GitHub Stats Alternative -->
-<!-- ======================= -->
+## 🤝 Connect With Me
 
-### 📊 GitHub Stats
+📍 **Location:** Anarkali Bazar, Lahore  
+📧 **Email:** oalihamza8@gmail.com  
 
-<p align="center">
-  <!-- Alternative GitHub Stats (working now) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ali-Hamza-Jhujh&show_icons=true&theme=radical&count_private=true" alt="Ali Hamza GitHub Stats"/>
-</p>
-
-### 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ali-Hamza-Jhujh&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Hamza%20Jhujh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hamza-maqsood-jhujh-6b6792336)
+[![GitHub](https://img.shields.io/badge/GitHub-Ali--Hamza--jhujh-181717?style=for-the-badge&logo=github)](https://github.com/Ali-Hamza-jhujh)
 
 ---
 
-<!-- ======================= -->
-<!-- Freelance & Social Icons -->
-<!-- ======================= -->
-
-### 💼 Hire Me / Connect With Me
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~01c7f8e8fc64e2a70e?mp_source=share" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" width="60px" style="filter: invert(48%) sepia(100%) saturate(446%) hue-rotate(108deg) brightness(96%) contrast(94%);" alt="Upwork"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.freelancer.com/u/HAMZAjhujh786?frm=HAMZAjhujh786&sb=t" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/freelancer.svg" width="60px" style="filter: invert(36%) sepia(62%) saturate(2553%) hue-rotate(192deg) brightness(97%) contrast(93%);" alt="Freelancer"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.fiverr.com/s/1q6z4X9" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fiverr.svg" width="60px" style="filter: invert(52%) sepia(60%) saturate(292%) hue-rotate(73deg) brightness(97%) contrast(96%);" alt="Fiverr"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ali-hamza-maqsood-jhujh-6b6792336" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="60px" style="color:#0A66C2;" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  ⚡ Let’s build something amazing together!
-</p>
+⭐ *If you like my work, consider starring my repositories!*
