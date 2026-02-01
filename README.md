@@ -1,6 +1,6 @@
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I%27m+Ali+Hamza+Jhujh;Full+Stack+Web+Developer+%7C+React+%7C+MERN+%7C+Django+%7C+ML"/>
-  </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=FF6C37,0e75b6&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Ali+Hamza+Jhujh;💻+Full+Stack+Web+Developer;⚡+React+%7C+MERN+%7C+Django+%7C+ML"/>
+</h1>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Ali-Hamza-jhujh&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -78,7 +78,7 @@
   ## 📊 GitHub Stats
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ali-Hamza-jhujh&show_icons=true&theme=tokyonight&count_private=true" />
+    <img src="https://github-readme-stats-gold.vercel.app/api?username=Ali-Hamza-jhujh&show_icons=true&theme=tokyonight&count_private=true" />
   </p>
   
   <p align="center">
@@ -86,7 +86,7 @@
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hamza-jhujh&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats1.vercel.app/api/top-langs/?username=Ali-Hamza-jhujh&layout=compact&theme=tokyonight" />
   </p>
   
   ---
