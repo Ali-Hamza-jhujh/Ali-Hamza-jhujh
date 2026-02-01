@@ -1,5 +1,5 @@
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ali+Hamza+Jhujh;Full+Stack+Web+Developer+%7C+React+%7C+MERN+%7C+Django+%7C+ML"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I%27m+Ali+Hamza+Jhujh;Full+Stack+Web+Developer+%7C+React+%7C+MERN+%7C+Django+%7C+ML"/>
   </h1>
   
   <p align="center">
