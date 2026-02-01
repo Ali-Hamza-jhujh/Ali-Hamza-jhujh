@@ -102,14 +102,18 @@
   
   ## 🤝 Connect With Me
   
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ali-hamza-maqsood-jhujh-6b6792336">
-      <img src="https://img.shields.io/badge/LinkedIn-Ali%20Hamza%20Jhujh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Ali-Hamza-jhujh">
-      <img src="https://img.shields.io/badge/GitHub-Ali--Hamza--Jhujh-181717?style=for-the-badge&logo=github"/>
-    </a>
-  </p>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/ali-hamza-maqsood-jhujh-6b6792336" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ali-Hamza-jhujh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/username/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" />
+  </a>
+</p>
+
   
   ---
   
