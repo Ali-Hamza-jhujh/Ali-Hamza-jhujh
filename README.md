@@ -1,78 +1,77 @@
-# 👋 Hi, I'm Ali Hamza Jhujh  
+<h1 align="center">Hi 👋, I'm Ali Hamza Jhujh</h1>
+<h3 align="center">Full Stack Web Developer | MERN | React | Django | Machine Learning</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ali-Hamza-jhujh&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ali-Hamza-jhujh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
 
 ## 🚀 About Me
 
-I’m a **Full Stack Web Developer** and **Python Developer** with hands-on experience in building modern, scalable web applications.  
-My expertise lies in **React**, **MERN Stack**, **Django**, and **Machine Learning**, along with solid DevOps fundamentals.
+I’m a **Full Stack Web Developer & Python Developer** passionate about building  
+**scalable web apps, clean APIs, and intelligent systems**.
 
-I enjoy turning ideas into real-world products and continuously improving my skills through projects and open-source learning.
-
-🔹 Currently working on:
-- Full Stack Web Applications (MERN & Django)
-- React-based Frontend Projects
-- Backend APIs & Databases
-- Machine Learning Models
-- Dockerized Applications
+💡 I specialize in:
+- MERN Stack Applications
+- React Frontend Engineering
+- Django & REST APIs
+- Machine Learning Basics
+- Dockerized Development
 
 ---
 
-## 🧠 Core Skills
-
-### 🌐 Full Stack Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge)
-
----
-
-### 🐍 Backend & Python
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
----
-
-### 🤖 Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-### 🛠 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🧰 Tech Stack Overview
+## 🧩 Tech Stack
 
 ### 🔹 Programming Languages
-- JavaScript
-- Python
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python" />
+</p>
 
-### 🔹 Frameworks & Libraries
-- React.js
-- Node.js
-- Express.js
-- Django
+---
 
-### 🔹 Databases
-- MongoDB
-- MySQL
+### 🔹 Frameworks & Libraries (Web + Backend)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,redux,tailwind,html,css" />
+</p>
 
-### 🔹 Tools & Platforms
-- Docker
-- Git & GitHub
-- Postman
-- Linux
+---
+
+### 🔹 Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" />
+</p>
+
+---
+
+### 🔹 AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+---
+
+### 🔹 DevOps, Cloud & Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,ubuntu" />
+</p>
+
+---
+
+## 💼 Working Platforms
+
+<p align="center">
+  <a href="https://www.fiverr.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://www.freelancer.com/u/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -92,19 +91,27 @@ I enjoy turning ideas into real-world products and continuously improving my ski
 
 ---
 
-## 📈 GitHub Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hamza-jhujh&theme=tokyo-night)
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hamza-jhujh&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-📍 **Location:** Anarkali Bazar, Lahore  
-📧 **Email:** oalihamza8@gmail.com  
+📍 **Lahore, Pakistan**  
+📧 **oalihamza8@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Hamza%20Jhujh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hamza-maqsood-jhujh-6b6792336)
-[![GitHub](https://img.shields.io/badge/GitHub-Ali--Hamza--jhujh-181717?style=for-the-badge&logo=github)](https://github.com/Ali-Hamza-jhujh)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ali-hamza-maqsood-jhujh-6b6792336">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Hamza%20Jhujh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ali-Hamza-jhujh">
+    <img src="https://img.shields.io/badge/GitHub-Ali--Hamza--Jhujh-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+⭐ **If you like my work, don’t forget to star my repositories!**
