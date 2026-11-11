@@ -1,120 +1,79 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=FF6C37,0e75b6&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi,+I%27m+Ali+Hamza+Jhujh;%F0%9F%92%BB+Full+Stack+Web+Developer;%E2%9A%A1+React+%7C+MERN+%7C+Django+%7C+ML"/>
-</h1>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ali-Hamza-jhujh&label=Profile%20Views&color=0e75b6&style=flat" />
-  </p>
-  
-  ---
-  
-  ## 🚀 About Me
-  
-  I’m a **Full Stack Web & Python Developer** passionate about building  
-  **scalable web apps, intelligent AI systems, and automation tools**.  
-  
-  💡 I specialize in:  
-  - MERN Stack Applications  
-  - React Frontend Engineering  
-  - Django & REST APIs  
-  - Machine Learning Models  
-  - Dockerized Development  
-  
-  📍 Location: Lahore, Pakistan  
-  📧 Email: oalihamza8@gmail.com  
-  
-  ---
-  
-  ## 🧩 Tech Stack & Skills
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6C37&center=true&vCenter=true&width=650&lines=JavaScript+%7C+Python+%7C+React+%7C+MERN+Stack;Django+%7C+Node.js+%7C+Express+%7C+MongoDB;Docker+%7C+Git+%7C+Linux+%7C+Postman" />
-  </p>
-  
-  ### 🔹 Programming Languages
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,python" />
-  </p>
-  
-  ### 🔹 Frameworks & Libraries (Web + Backend)
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,redux,tailwind,html,css" />
-  </p>
-  
-  ### 🔹 Databases & Storage
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" />
-  </p>
-  
-  ### 🔹 Machine Learning & AI
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  </p>
-  
-  ### 🔹 DevOps & Tools
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,ubuntu" />
-  </p>
-  
-  ---
-  
-  ## 💼 Freelance Platforms
-  
+<h1 align="center">Hi, I'm Ali Hamza Jhujh 👋</h1>
+
 <p align="center">
-  <a href="https://www.fiverr.com/s/2KNdqwX" target="_blank">
-    <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="40" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01c7f8e8fc64e2a70e?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="40" />
-  </a>
-  <a href="https://www.freelancer.com/u/HAMZAjhujh786?frm=HAMZAjhujh786&sb=t" target="_blank">
-    <img src="https://img.shields.io/badge/-Freelancer-1E90FF?style=for-the-badge&logo=freelancer&logoColor=white" height="40" />
-  </a>
+  <strong>Full-Stack Developer • AI Automation Builder • Flutter Developer</strong>
 </p>
 
-
-
-  ---
-  
-  ## 📊 GitHub Stats
-  
-  <p align="center">
-    <img src="https://github-readme-stats-gold.vercel.app/api?username=Ali-Hamza-jhujh&show_icons=true&theme=tokyonight&count_private=true" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Hamza-jhujh&theme=tokyonight" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats1.vercel.app/api/top-langs/?username=Ali-Hamza-jhujh&layout=compact&theme=tokyonight" />
-  </p>
-  
-  ---
-  
-  ## 📈 Contribution Graph
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hamza-jhujh&theme=tokyo-night" />
-  </p>
-  
-  ---
-  
-  ## 🤝 Connect With Me
-  
- <p align="center">
-  <a href="https://www.linkedin.com/in/ali-hamza-maqsood-jhujh-6b6792336" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ali-Hamza-jhujh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/Ali-hamza786/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" />
-  </a>
+<p align="center">
+  <a href="https://github.com/Ali-Hamza-jhujh"><img src="https://img.shields.io/github/followers/Ali-Hamza-jhujh?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers"></a>
+  <a href="https://github.com/Ali-Hamza-jhujh?tab=repositories"><img src="https://img.shields.io/github/stars/Ali-Hamza-jhujh?affiliations=OWNER&style=for-the-badge&color=f5c542" alt="GitHub stars"></a>
+  <img src="https://komarev.com/ghpvc/?username=Ali-Hamza-jhujh&style=for-the-badge&color=0e75b6" alt="Profile views">
 </p>
 
-  
-  ---
-  
-  ⭐ **If you like my work, don’t forget to star my repositories!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-hamza-maqsood-jhujh-6b6792336">LinkedIn</a> •
+  <a href="https://leetcode.com/Ali-hamza786/">LeetCode</a> •
+  <a href="mailto:oalihamza8@gmail.com">Email</a>
+</p>
+
+## About me
+
+I build practical software products that combine clean user experiences, reliable APIs, automation, and AI-assisted workflows. My public work includes academic platforms, complaint-management systems, productivity tools, document processing, real-time communication, Flutter applications, and responsive websites.
+
+- Based in **Lahore, Pakistan**
+- Focused on **full-stack development, backend APIs, AI agents, and mobile apps**
+- Interested in **secure authentication, real-time systems, document automation, and production deployment**
+- Open to **freelance projects, collaborations, and product-focused engineering work**
+
+## What I build
+
+| Area | Recent work and technologies |
+| --- | --- |
+| Full-stack web apps | React, Node.js, Express, PHP, MySQL, MongoDB, Prisma |
+| Backend systems | Django, FastAPI, REST APIs, JWT authentication, Redis, Docker |
+| AI and automation | Python, Streamlit, LLM agents, prompt workflows, OCR, document processing |
+| Mobile apps | Flutter and Dart, notifications, chat, student-management applications |
+| Frontend engineering | React, Next.js, TypeScript, Tailwind CSS, responsive UI |
+| Delivery and tooling | GitHub Actions, Git, Linux, Docker, Netlify, Vercel, Postman |
+
+## Featured projects
+
+- **[PUCIT Complaint Platform](https://github.com/Ali-Hamza-jhujh/Pucit-complaint-platform)** — role-aware PHP/MySQL grievance platform with authentication, email notifications, audit logging, CSRF protection, and secure uploads.
+- **[ZainMBBS Platform](https://github.com/Ali-Hamza-jhujh/zainmbbs-platform-website)** — education platform using React, Node.js, Express, Prisma, authentication, and deployment tooling.
+- **[PTBA Diary](https://github.com/Ali-Hamza-jhujh/PTBA_frontened)** — React frontend paired with a Node.js backend for a productivity and diary application.
+- **[Doclin Backend](https://github.com/Ali-Hamza-jhujh/Doclin_backened)** — FastAPI document-processing backend using OCR, PDFs, images, spreadsheets, and Word documents.
+- **[GPA/CGPA AI Agent](https://github.com/Ali-Hamza-jhujh/PUCIT_GRADE_CALCULATE_AGENT)** — Python and Streamlit assistant for academic GPA and CGPA workflows.
+- **[Real-Time Chat App](https://github.com/Ali-Hamza-jhujh/Real_Time_chat_App_Flutter_WithNotification_system)** — Flutter and Node.js chat application with notifications, profiles, voice messages, and cross-platform support.
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,react,nextjs,nodejs,express,django,fastapi,flutter,html,css,tailwind,mongodb,mysql,postgres,sqlite,redis,docker,git,github,linux,postman" alt="Technology stack">
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Hamza-jhujh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hamza-jhujh&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img src="https://streak-stats.demolab.com?user=Ali-Hamza-jhujh&hide_border=true&theme=tokyonight" alt="GitHub streak">
+</p>
+
+## Currently improving
+
+- Production-grade testing and CI/CD across projects
+- Secure environment configuration and deployment practices
+- Scalable API design, authentication, and database workflows
+- AI-powered tools for education and document automation
+
+## Let's connect
+
+If you are building a web platform, API, mobile app, or AI automation workflow, feel free to connect with me.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-hamza-maqsood-jhujh-6b6792336"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:oalihamza8@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
