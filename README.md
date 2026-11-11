@@ -54,11 +54,11 @@ I build practical software products that combine clean user experiences, reliabl
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Hamza-jhujh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics">
+  <img src="https://github-readme-stats-gold.vercel.app/api?username=Ali-Hamza-jhujh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hamza-jhujh&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img src="https://github-readme-stats1.vercel.app/api/top-langs/?username=Ali-Hamza-jhujh&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Top languages">
   <img src="https://streak-stats.demolab.com?user=Ali-Hamza-jhujh&hide_border=true&theme=tokyonight" alt="GitHub streak">
 </p>
 
